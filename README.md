@@ -3,7 +3,7 @@
 083f1b00d6c9.gif" />
 </div>
 ###
-<h1 align="center">Привет 👋 Меня зовут Никита!</h1>
+<h1 align="center">Привет 👋 Меня зовут Ксения!</h1>
 ###
 <div align="center">
 <a href="https://t.me/@ne_tvoidrug" target="_blank">
