@@ -9,13 +9,9 @@
 <a href="https://t.me/ne_tvoidrug" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo" />
 </a>
- <a href="mailto:vologzhanin.nin@gmail.com" target="_blank">
+ <a href="mailto:xxenia2005@gmail.com" target="_blank">
  <img src="https://img.shields.io/badge/Gmail-Emailred?logo=gmail&logoColor=white&style=for-the-badge" height="25" alt="Gmail logo"
 />
- </a>
- <a href="mailto:vologzhanin.nik@mail.ru" target="_blank">
- <img src="https://img.shields.io/badge/Mail.ru-Emailblue?logo=mail.ru&logoColor=white&style=for-the-badge" height="25" alt="Mail.ru
-logo" />
  </a>
 </div>
 ###
